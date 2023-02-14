@@ -1,3 +1,3 @@
 void main(){
-	console.log("me equivoque");	
+	printf("Hola futuro conflicto");	
 }
